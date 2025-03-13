@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ````npm install read````
+
+Sistema de registro 2
